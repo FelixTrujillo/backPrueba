@@ -78,7 +78,7 @@ while True:
             else:
                 marcador[1] += 1
         print(marcador)
-
+        print("Adios, gracias por dejar el dinero")
         break
         
     else:
