@@ -28,7 +28,7 @@ for fila in tabla:
     for columna in fila:
         print(columna)
     
-
+"""
 
 # simulando un juego de cartas llamado 21
 
@@ -83,4 +83,4 @@ while True:
         
     else:
         print("\n"*20)
-"""
+
